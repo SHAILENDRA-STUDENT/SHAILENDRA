@@ -6,13 +6,7 @@ author-nandini karanje <br>
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-table, th, td {
-  
-}
-</style>
-</head>
-<body>
+
 
 <table style="width:100%">
 
