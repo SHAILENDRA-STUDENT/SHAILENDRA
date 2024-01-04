@@ -8,8 +8,7 @@ author-nandini karanje <br>
 <head>
 <style>
 table, th, td {
-  border: 1
-  border-collapse: collapse;
+  
 }
 </style>
 </head>
