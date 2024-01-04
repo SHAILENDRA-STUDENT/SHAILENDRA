@@ -1,14 +1,14 @@
 # SHAILENDRA
 THIS IS MY FIRST REPOSITORY
 <br>
-author-nandini karanje 
+author-nandini karanje <br>
 
 <!DOCTYPE html>
 <html>
 <head>
 <style>
 table, th, td {
-  border: 1px solid black;
+  border: 1
   border-collapse: collapse;
 }
 </style>
